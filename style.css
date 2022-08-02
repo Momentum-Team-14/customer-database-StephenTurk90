@@ -1,3 +1,7 @@
 Header {
     color: BLUE;
 }
+
+div {
+    border: 5px solid red;
+}
