@@ -15,3 +15,4 @@ function showName(customerArray) {
     }
 }
 // name: first and last
+showName(customers)
